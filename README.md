@@ -125,6 +125,6 @@ If you enjoyed playing QuattroRealm, consider giving this repo a ⭐ and sharing
 1. Ananya Srivastava
 2. Vishwajeet Singh (infiniper@gmail.com)
 3. Nitish Kumar 
-4. Shashwat Pandey
+4. Shashwat Pandey (shashwatp108@gmail.com)
 
 ---
