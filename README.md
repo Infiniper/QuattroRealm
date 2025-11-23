@@ -92,7 +92,7 @@
 ### **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/QuattroRealm.git
+   git clone https://github.com/Infiniper/QuattroRealm.git
    cd QuattroRealm
 ```
 
